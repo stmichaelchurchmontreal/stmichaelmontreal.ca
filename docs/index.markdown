@@ -8,6 +8,7 @@ layout: home
 ---
 ![Church](assets/img/church_1.jpg)
 [2388 Rue D'Iberville, Montréal, QC H2K 3C6](https://goo.gl/maps/bzQcvRP5gcxKyXX1A)
+#### Facebook Page: [Help Ukraine St Michael Ukrainian Church Montreal](https://www.facebook.com/Help-Ukraine-St-Michael-Ukrainian-Church-Montreal-108145738525434)
 
 ## НОВИЙ КАЛЕНДАР – 2022
 
