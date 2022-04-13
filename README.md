@@ -1,5 +1,5 @@
 # stmichaelmontreal.ca
 The website for the St. Michael the Archangel Ukrainian Catholic Church of Montréal.
 
-### some notes
-* Old page : http://www.ukemonde.com/stmichael/index.html
+# facbook page
+https://www.facebook.com/Help-Ukraine-St-Michael-Ukrainian-Church-Montreal-108145738525434
